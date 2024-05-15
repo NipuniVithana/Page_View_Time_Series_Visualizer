@@ -21,6 +21,7 @@ This function draws a line chart depicting the daily freeCodeCamp Forum page vie
 ### `draw_bar_plot()`
 
 This function draws a bar chart displaying the average daily page views for each month grouped by year. The legend shows month labels, and it has a title of "Months". The x-axis label is "Years", and the y-axis label is "Average Page Views".
+![bar_plot](https://github.com/NipuniVithana/Page_View_Time_Series_Visualizer/assets/99274261/7d81bc8b-65f2-4698-a901-4db717b98b3c)
 
 ### `draw_box_plot()`
 
