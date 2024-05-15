@@ -28,4 +28,10 @@ This function draws a bar chart displaying the average daily page views for each
 This function draws two adjacent box plots using Seaborn. The first plot shows the distribution of page views within a given year (Year-wise Box Plot), while the second plot shows the distribution by month (Month-wise Box Plot). The month labels start from January, and the x and y axes are labeled correctly.
 ![box_plot](https://github.com/NipuniVithana/Page_View_Time_Series_Visualizer/assets/99274261/3a6af886-3fd3-4309-bfed-9114eccc1fa8)
 
+###Technologies used
+Python
+Pandas
+Matplotlib
+Seaborn
+
 
