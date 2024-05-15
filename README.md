@@ -16,6 +16,7 @@ Before visualization, the data is cleaned by filtering out days when the page vi
 ### `draw_line_plot()`
 
 This function draws a line chart depicting the daily freeCodeCamp Forum page views from May 2016 to December 2019. The title of the chart is "Daily freeCodeCamp Forum Page Views 5/2016-12/2019", and the x-axis label is "Date", while the y-axis label is "Page Views".
+![line_plot](https://github.com/NipuniVithana/Page_View_Time_Series_Visualizer/assets/99274261/01a2b3f7-fffc-4cdb-9ad9-afce9fc22ee4)
 
 ### `draw_bar_plot()`
 
